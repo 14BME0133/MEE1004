@@ -8,4 +8,4 @@ FLUID MECHNiCS
 
 - Click the big download button to save the .zip file.
 
-# [Download](https://github.com/14BME0133/MEE1004/FM%20lab%20complete%20manual.pdf)
+# [Download](/FM lab complete manual.pdf)
