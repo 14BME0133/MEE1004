@@ -10,11 +10,10 @@ FLUID MECHNiCS LAB MANUAL
 # [Download .pdf](MEE1004-LAB-MANUAL.pdf)
 
 
-----
+---
 
+<br>
 [![ghit.me](https://ghit.me/badge.svg?repo=14bme0133/MEE1004)](https://ghit.me/repo/14bme0133/MEE1004)
+<hr>
 
-
-----
-
-[Made by N1X](http://twitter.com/itsN1X)
+[14BME0133.github.io - by N1X](http://twitter.com/itsN1X)
