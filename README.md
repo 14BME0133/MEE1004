@@ -1,4 +1,4 @@
-# MEE1004
+# 14BME0133.GitHub.io/MEE1004
 FLUID MECHNiCS LAB MANUAL
 
 ## How to download .pdf Lab Manual (softcopy)
