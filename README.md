@@ -1,11 +1,20 @@
 # MEE1004
-FLUID MECHNiCS
+FLUID MECHNiCS LAB MANUAL
 
-#### Ways to download .pdf Lab Manual (softcopy)
+#### How to download .pdf Lab Manual (softcopy)
 
 - Open https://14bme0133.github.io/MEE1004/ in deskyop mode of your browser.
 
+- Click the big *download .pdf* button to save the .zip file.
 
-- Click the big download button to save the .zip file.
+# [Download .pdf](MEE1004-LAB-MANUAL.pdf)
 
-# [Download](MEE1004-LAB-MANUAL.pdf)
+
+----
+
+[![ghit.me](https://ghit.me/badge.svg?repo=14bme0133/MEE1004)](https://ghit.me/repo/14bme0133/MEE1004)
+
+
+----
+
+[Made by N1X](http://twitter.com/itsN1X)
