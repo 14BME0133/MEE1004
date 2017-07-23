@@ -13,7 +13,7 @@ FLUID MECHNiCS LAB MANUAL
 ---
 
 <br>
-[![Now seen by : ](https://ghit.me/badge.svg?repo=14bme0133/MEE1004)](https://ghit.me/repo/14bme0133/MEE1004)
+[![ghit.me](https://ghit.me/badge.svg?repo=14bme0133/MEE1004)](https://ghit.me/repo/14bme0133/MEE1004)
 <hr>
 
 ## 14BME0133.github.io - Fluid Mechanics 
