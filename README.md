@@ -1,19 +1,10 @@
-# 14BME0133.GitHub.io/MEE1004
-FLUID MECHNiCS ONLINE RECORD
+# MEE1004L
+Fluid Mechanics Laboratory | MEE1004L - 14BME0133.github.io
 
+Records maintained by @VITUni / @14bme0133
 
----
+All documents and files are available at popular protocols like ftp, http, httpd, https, smb(local VIT), smbs, etc. and are made publicly accessible.
 
-## Links to download .pdf Digital Assignment No. 1 and 2 (softcopy)
-
-# [Download .pdf](DA_1.pdf) Digital Assignment 1
-# [Download .pdf](DA_2.pdf) Digital Assignment 2
-
-
----
-
-<br>
-<hr>
 
 ## 14BME0133.github.io - Fluid Mechanics 
 
