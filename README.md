@@ -1,23 +1,14 @@
 # 14BME0133.GitHub.io/MEE1004
 FLUID MECHNiCS ONLINE RECORD
 
-## How to download .pdf Lab Manual (softcopy)
-
-# [Download .pdf](MEE1004-LAB-MANUAL.pdf)
-
 
 ---
 
-## How to download FFCS-Upload Experiments from attedted physical Lab Record (softcopy)
+## Links to download .pdf Digital Assignment No. 1 and 2 (softcopy)
 
-# [Download .pdf](MEE1004-LAB-MANUAL.pdf)
+# [Download .pdf](DA_1.pdf) Digital Assignment 1
+# [Download .pdf](DA_2.pdf) Digital Assignment 2
 
-
----
-
-## How to download .pdf Digital Assignment No. 1 and 2 (softcopy)
-
-# [Download .pdf](MEE1004-LAB-MANUAL.pdf)
 
 ---
 
